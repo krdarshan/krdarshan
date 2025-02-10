@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Competitive Coding & Problem Solving: </h3>
 <p align="left">
-    <a href="https://www.codechef.com/users/darshankr436" target="_blank">
-        <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/cc-logo.svg" alt="CodeChef" width="40" height="40"/>
+  <a href="https://www.codechef.com/users/darshankr436" target="_blank">
+        <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40"/>
     </a>
     <a href="https://leetcode.com/u/Darshan_kr/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
