@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 <h3 align="left">Competitive Coding & Problem Solving: </h3>
 <p align="left">
   <a href="https://www.codechef.com/users/darshankr436" target="_blank" style="margin-right: 15px;">
-        <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="100" height="40"/>
+        <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="75" height="75"/>
     </a>
     <a href="https://leetcode.com/u/Darshan_kr/" target="_blank" style="margin-right: 15px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="100" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="75" height="75"/>
     </a>
     <a href="https://www.geeksforgeeks.org/user/darshanc4ux/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="75" height="75"/>
     </a>
 </p>
 
