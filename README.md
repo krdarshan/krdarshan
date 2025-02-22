@@ -56,8 +56,4 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-
-<h3 align="left">TryHackMe Profile:</h3>
-<a href="https://tryhackme.com/p/Darshan_kr">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Darshan_kr.png" alt="TryHackMe Badge" width="150">
-</a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3317205" style='border:none;'></iframe>
