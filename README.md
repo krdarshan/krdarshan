@@ -56,4 +56,3 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3317205" style='border:none;'></iframe>
